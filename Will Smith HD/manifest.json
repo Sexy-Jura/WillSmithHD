@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+      "description": "(Work in progress) by @JuraVuramee",
+      "name": "Will Smith HD Textures",
+      "uuid": "9984865b-2a0f-575b-ba33-4d17b1eb42b0",
+      "version": [0, 0, 3]
+    },
+    "modules": [
+      {
+        "description": "texures and sounds",
+        "type": "resources",
+        "uuid": "9999ee39-bb40-4b30-b330-44c9abffe247",
+        "version": [0, 0, 3]
+      }
+    ]
+  }

@@ -1,0 +1,10 @@
+{
+    "random.totem": {
+       "category": "player",
+       "volume": 1.0,
+       "sounds": [
+       "sounds/random/use_totem"
+  ]
+}
+
+}
